@@ -26,7 +26,7 @@ export function HeroSection() {
       <div className="flex-1 flex flex-col justify-center w-full relative z-10">
         {/* Main headline */}
         <h1 className="font-display text-5xl font-bold leading-none tracking-tighter text-foreground sm:text-7xl md:text-8xl lg:text-[12rem] xl:text-[14rem] mt-24 md:mt-12">
-          HACK<span className="text-[#529361]">JPS</span>
+          HACKJPS
         </h1>
 
         {/* New event box styled after image */}
