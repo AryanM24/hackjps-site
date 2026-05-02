@@ -6,7 +6,7 @@ import { Footer } from "./footer"
 const faqs = [
   {
     question: "Who can participate in HackJPS?",
-    answer: "HackJPS is open to all high school and college students. Whether you're a beginner or experienced developer, you're welcome to join!",
+    answer: "HackJPS is open to all high school and middle school students ages 13+. Whether you're a beginner or experienced developer, you're welcome to join!",
   },
   {
     question: "Do I need a team to participate?",
@@ -14,11 +14,11 @@ const faqs = [
   },
   {
     question: "What should I bring?",
-    answer: "Bring your laptop, charger, any hardware you want to hack with, toiletries, and a sleeping bag if you plan to stay overnight. We'll provide food, drinks, and WiFi!",
+    answer: "Bring your laptop, charger, any hardware you want to hack with, toiletries, and whatever you need to stay comfortable. We'll provide WiFi and food and drink will be available for purchase throughout the event!",
   },
   {
     question: "Is there a cost to participate?",
-    answer: "HackJPS is completely free! Thanks to our sponsors, we cover food, swag, and all event activities at no cost to participants.",
+    answer: "HackJPS is completely free! Thanks to our sponsors, we cover prizes, swag, and all event activities at no cost to participants.",
   },
   {
     question: "What if I've never been to a hackathon before?",
